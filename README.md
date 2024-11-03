@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/arunsharma310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arunsharma310" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arun3310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arun3310" height="30" width="40" /></a>
-<a href="https://instagram.com/arunsh_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arunsh_17" height="30" width="40" /></a>
+<a href="https://instagram.com/er_arun1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="er_arun1" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/arun1018" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="arun1018" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/arun3310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="arun3310" height="30" width="40" /></a>
 </p>
